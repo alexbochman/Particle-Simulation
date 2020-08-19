@@ -18,5 +18,5 @@ https://www.udemy.com/course/free-learn-c-tutorial-beginners/learn/lecture/13488
 
 
 ### Running the program
-make
+make <br />
 ./main
