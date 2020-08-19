@@ -1,3 +1,4 @@
-.vscode
+.vscode/
+particles.gif
 *.o
 main
