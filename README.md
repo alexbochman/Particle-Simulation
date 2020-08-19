@@ -12,7 +12,7 @@ https://www.udemy.com/course/free-learn-c-tutorial-beginners/learn/lecture/13488
 
 ![particle gif](/particles.gif)
 
-<br /> <br />
+<br />
 
 ### Running the program
 make <br />
