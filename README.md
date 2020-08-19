@@ -10,3 +10,5 @@ The course instructor used SDL as his development library, while I used SFML. I 
 (somewhat) challenge myself by differentiating to tools available to me as opposed to the exact tools available to the course instructor.
 
 https://www.udemy.com/course/free-learn-c-tutorial-beginners/learn/lecture/1348876#overview
+
+![particle snip](/particles.png)
