@@ -1,6 +1,6 @@
 # Particle Simulation
-# Alex Bochman
-# alexbochman22@gmail.com
+## Alex Bochman
+## alexbochman22@gmail.com
 
 
 Started this project over the summer of 2020 following a Udemy.com course for C++. This project was the final section
