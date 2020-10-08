@@ -14,6 +14,8 @@ https://www.udemy.com/course/free-learn-c-tutorial-beginners/learn/lecture/13488
 
 <br />
 
-### Running the program
-make <br />
+### Compile & Run
+```
+make
 ./main
+```
