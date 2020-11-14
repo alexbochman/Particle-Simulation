@@ -1,5 +1,5 @@
 # Particle Simulation
-## Summer 2020 Personal Project | [Source Code Here](https://github.com/alexbochman/Particle-Simulation/find/main)
+## Summer 2020 Personal Project | [Source Code Here](https://github.com/alexbochman/Particle-Simulation/find/master)
 
 
 > Started this project over the summer of 2020 following a Udemy.com course for C++. This project was the final section
