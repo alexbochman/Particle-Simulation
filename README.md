@@ -1,5 +1,5 @@
 # Particle Simulation
-### Alex Bochman - alexbochman22@gmail.com
+## Summer 2020 Personal Project | [Source Code Here](https://github.com/alexbochman/Particle-Simulation)
 
 
 > Started this project over the summer of 2020 following a Udemy.com course for C++. This project was the final section
